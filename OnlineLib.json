@@ -1,0 +1,8 @@
+{
+    "LOADER": [
+        {
+            "folder_name": "libAlex.so",
+            "loader_version": 1
+        }
+    ]
+}
