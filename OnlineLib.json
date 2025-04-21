@@ -1,8 +1,11 @@
 {
-    "LOADER": [
-        {
-            "folder_name": "libAlex.so",
-            "loader_version": 1
-        }
-    ]
+  "aplikasi": {
+    "G1": {
+      "id": 0,
+      "package": "com.tencent.ig",
+      "status": "Live",
+      "title": "PUBG GLOBAL",
+      "version": "3.7.0"
+       }
+    }
 }
